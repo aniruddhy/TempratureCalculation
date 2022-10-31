@@ -18,7 +18,7 @@
     .box {
     width: 25%;
     height: 60vh;
-    background-color: green;
+    background-color: Red;
      margin: auto;
     border-radius: 10px;
     box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.5);
