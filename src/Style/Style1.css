@@ -18,8 +18,8 @@
     .box {
     width: 25%;
     height: 60vh;
-    background-color: #a5bbdd;
-    margin: auto;
+    background-color: green;
+     margin: auto;
     border-radius: 10px;
     box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.5);
     position: relative;
